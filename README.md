@@ -1,4 +1,2 @@
 
-Wordlist for fuzzing the Microsoft ISS Server.
-
-juicy_curated_fuzzlist.txt , It Is Created Using ChatGpt
+Wordlist for fuzzing the ISS Server(Internet Informatiom Services) Window Server 
